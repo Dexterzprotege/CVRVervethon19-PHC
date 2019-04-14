@@ -1,0 +1,78 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  align-content: center;
+}
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#content {
+  width: 400px;
+  margin: 0 auto;
+}
+
+div{
+  align-content: center;
+  align-self: auto;
+  align-items: center;
+}
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 50vh;
+  min-height: 250px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-transition: 0.2s ease-in-out left;
+  -moz-transition: 0.2s ease-in-out left;
+  -o-transition: 0.2s ease-in-out left;
+  transition: 0.2s ease-in-out left;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+:root {
+    
+}
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
